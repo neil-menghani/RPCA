@@ -1,3 +1,5 @@
+# Source: https://github.com/dganguli/robust-pca
+
 import numpy as np
 
 class R_pca:
