@@ -12,5 +12,6 @@ Implementation of Robust Principal Component Analysis (RPCA) on Steam Video Game
 
 2. Run all cells in Final_Experiment.ipynb
 
-Paper: 
-Video: 
+Paper: RPCA_Paper.pdf
+Video: https://www.youtube.com/watch?v=ed4WOq-4Ag0&t=7s&ab_channel=NeilMenghani
+Slides: RPCA_Slides.pdf
